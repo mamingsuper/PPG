@@ -29,3 +29,7 @@ The replication materials for the paper "Grassroots Party Institutionalization a
 - clean the data
 - select models
 - do robust checks
+
+# Challenges
+- Missing values
+- Casual identification
