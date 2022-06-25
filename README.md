@@ -25,3 +25,7 @@ The replication materials for the paper "Grassroots Party Institutionalization a
     3. Location
     4. Informal Groups
 
+## Analysis Plan
+- clean the data
+- select models
+- do robust checks
